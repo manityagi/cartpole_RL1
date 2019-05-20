@@ -15,5 +15,7 @@ Observation:
         Type: Discrete(2)
         Num	Action
         0	Push cart to the left
-        1 Push cart to the right
+        1       Push cart to the right
+        
+        
         
